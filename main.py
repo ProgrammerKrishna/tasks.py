@@ -2,6 +2,7 @@ import basic.fibonacci
 import basic.listoperations
 import basic.mathematics
 import basic.oddeven
+import basic.vowels
 
 def main():
     print(
